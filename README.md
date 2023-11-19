@@ -1,5 +1,5 @@
 # EntraTerraformImporter
-tools to aid in importing azure ad resources. 
+tools to aid in importing entra resources. 
 
 ## How-to
 
