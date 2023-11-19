@@ -4,14 +4,6 @@ this tool helps you import existing azure resources into terraform.
 
 example terraform code included. 
 
-## How-to
-
-* . 
-  * login in to azure with `az login`
-
-
-# Gather data files
-
 > python .\azCMDtoYAML.py   
 
 ```                      
